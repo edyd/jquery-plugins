@@ -13,7 +13,7 @@ jQuery.fn.extend({
             delay      : '320',
             hashnav    : true,
             onComplete : null
-        }, defaults, options);
+        }, options);
 
         // Actions
         return this.each( function() {
